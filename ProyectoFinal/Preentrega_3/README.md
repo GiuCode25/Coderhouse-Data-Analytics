@@ -29,3 +29,10 @@ Se desarrolló un script SQL para la creación de la base de datos **Ventas_Tech
 - PostgreSQL 18
 - pgAdmin 4
 - GitHub
+
+# 👩‍💻 Autora
+
+**Giuliana Belén Canosa**
+
+Proyecto desarrollado como parte del curso **Data Analytics** de **Coderhouse**.
+

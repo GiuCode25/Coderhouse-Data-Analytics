@@ -111,9 +111,3 @@ Estudiante de **Data Analytics** en **Coderhouse**.
 ⭐ **Gracias por visitar este repositorio.**
 
 Este espacio reúne el trabajo realizado durante el curso **Data Analytics** de **Coderhouse**, documentando la evolución desde los primeros ejercicios de SQL hasta el desarrollo del Proyecto Integrador. El repositorio continuará actualizándose con las próximas entregas y la implementación de modelos analíticos y dashboards en **Power BI**.
-
-## Autor
-
-**Giuliana Canosa**
-
-Estudiante del curso **Análisis de Datos** en Coderhouse.

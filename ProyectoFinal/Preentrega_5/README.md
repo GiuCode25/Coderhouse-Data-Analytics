@@ -106,31 +106,23 @@ Las relaciones entre ellas permiten analizar:
 
 ---
 
-# ▶️ Cómo ejecutar el proyecto
+# ▶️ Cómo ejecutar la Preentrega 5
 
-Para ejecutar correctamente las consultas SQL:
+## Archivos
 
-1. Ejecutar el archivo:
+- **RetailPro_M3_Creacion_Base.sql**
+  - Crea la base de datos RetailPro.
+  - Genera las tablas.
+  - Inserta los datos iniciales.
 
-```
-RetailPro_M3_Creacion_Base.sql
-```
+- **m5_consultas_joins.sql**
+  - Contiene las consultas solicitadas en la Preentrega 5.
 
-Este script crea la base de datos, las tablas y carga los datos iniciales.
+## Orden de ejecución
 
-2. Seleccionar la base de datos **RetailPro**.
-
-3. Ejecutar las consultas del Módulo 4:
-
-```
-m4_consultas_negocio.sql
-```
-
-4. Ejecutar las consultas del Módulo 5:
-
-```
-m5_consultas_joins.sql
-```
+1. Ejecutar `RetailPro_M3_Creacion_Base.sql`.
+2. Seleccionar la base de datos `RetailPro`.
+3. Ejecutar `m5_consultas_joins.sql`.
 
 ---
 

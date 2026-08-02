@@ -213,10 +213,3 @@ Estudiante de **Data Analytics** en **Coderhouse** y desarrolladora del proyecto
 ⭐ **Gracias por visitar este repositorio.**  
 Este proyecto refleja el desarrollo de las distintas etapas del curso **Data Analytics** de **Coderhouse**, desde el diseño del modelo de datos hasta la construcción de consultas SQL orientadas al análisis de negocio. El repositorio continuará actualizándose con las próximas preentregas y la implementación del dashboard final en **Power BI**.
 
----
-
-# 👩‍💻 Autora
-
-**Giuliana Belén Canosa**
-
-Proyecto desarrollado como parte del curso **Data Analytics** de **Coderhouse**.

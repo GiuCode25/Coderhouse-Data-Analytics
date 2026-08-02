@@ -206,7 +206,7 @@ Estudiante de **Data Analytics** en **Coderhouse** y desarrolladora del proyecto
 
 - **GitHub:** https://github.com/GiuCode25
 - **LinkedIn:** https://www.linkedin.com/in/giulianacanosa/
-- **Email:** *(agregá el correo que quieras compartir, por ejemplo: giuliana@email.com)*
+- **Email:** giulianacanosa@gmail.com
 
 ---
 

@@ -27,3 +27,10 @@ Se desarrollaron consultas SQL orientadas al análisis de negocio sobre la base 
 - PostgreSQL 18
 - pgAdmin 4
 - GitHub
+
+# 👩‍💻 Autora
+
+**Giuliana Belén Canosa**
+
+Proyecto desarrollado como parte del curso **Data Analytics** de **Coderhouse**.
+

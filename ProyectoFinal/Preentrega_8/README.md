@@ -118,12 +118,10 @@ La validación permitió comprobar el correcto funcionamiento de las medidas y d
 - Modelo en estrella
 - Inteligencia temporal
 - GitHub
-
 ---
 
-## Autora
+# 👩‍💻 Autora
 
 **Giuliana Belén Canosa**
 
-
-Curso: Data Analytics | Coderhouse
+Proyecto desarrollado como parte del curso **Data Analytics** de **Coderhouse**.
